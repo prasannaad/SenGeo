@@ -35,7 +35,7 @@ In recent years, the increasing concern over air quality and its impact on publi
 
 # Figures
 
-![Example visualization of processed data.\label{fig:figure1_1}](Figure_1.png)
+![SATLLA-0 FSW two main states: Initialization and Operation.\label{fig:figure1_1}](Figure_1.png)
 
 
 
