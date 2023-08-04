@@ -32,9 +32,9 @@ SenGeo processes the collected sensor data within a Python environment. The data
 
 SenGeo reads the latitude and longitude coordinates associated with each data entry. It then plots the data points on Google Maps at their locations. The script visualizes the sensor data using a color contour approach. This lets users grasp the intensity of measured attributes (e.g., temperature, humidity, particulate matter) in specific areas at a glance.
 
-![Test.\label{fig:figure1_1}](figure1_1.png)
+![SATLLA-0 FSW two main states: Initialization and Operation.\label{fig:figure1_1}](figure1_1.png)
 
-As the script is built to process sensor data, it provides dynamic updates on the map interface, allowing users to monitor changes geospatially. The script improves comprehension by combining data with Google Maps and displaying it within its spatial context. SenGeo's simple Python code and interaction with Google Maps API make it accessible to many users. SenGeo enables diverse sectors to make educated decisions based on dynamic environmental data trends by allowing users to see parameters like temperature, humidity, and particulate matter intensity using color contours.
+The script improves comprehension by combining data with Google Maps and displaying it within its spatial context. SenGeo's simple Python code and interaction with Google Maps API make it accessible to many users. SenGeo enables diverse sectors to make educated decisions based on dynamic environmental data trends by allowing users to see parameters like temperature, humidity, and particulate matter intensity using color contours.
 
 
 # Statement of need
