@@ -35,7 +35,7 @@ In recent years, the increasing concern over air quality and its impact on publi
 
 # Figures
 
-![Example visualization of processed data.\label{fig:figure1_1}](https://github.com/prasannaad/SenGeo/assets/70738433/e720f360-2d4f-4a59-8d7e-898ad62cc55a){ width=70% }
+![Example visualization of processed data.\label{fig:figure1_1}](https://github.com/prasannaad/SenGeo/assets/70738433/e720f360-2d4f-4a59-8d7e-898ad62cc55a)
 
 
 
