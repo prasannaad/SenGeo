@@ -1,5 +1,5 @@
 ---
-title: 'SenGeo: A data visualization tool for geo-tagged sensor data'
+title:'SenGeo: A data visualization tool for geo-tagged sensor data'
 tags:
   - sensors
   - geotag
