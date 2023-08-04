@@ -1,6 +1,5 @@
 ---
 title: 'SenGeo: A data visualization tool for geo-tagged sensor data'
-
 tags:
   - Sensors
   - Geotag
@@ -16,7 +15,7 @@ authors:
     affiliation: 2
   - name: Bavath D
     orcid: 0009-0001-7844-4985
-    affiliation: 1
+    affiliation: "1"
 affiliations:
  - name: Project Scientist, Indian Institute of Technology Delhi. 
    index: 1
