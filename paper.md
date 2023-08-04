@@ -10,9 +10,11 @@ authors:
    affiliation: 1
    corresponding author: true
  - name: Gulshan Kumar
+   orcid: 0009-0002-9302-2446
    affiliation: "2"
  - name: Bavath D
    affiliation: "1"
+   orcid: 0009-0001-7844-4985
 affiliations:
  - name: Project Scientist, Indian Institute of Technology Delhi
    index: 1
