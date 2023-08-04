@@ -14,3 +14,5 @@ A data visualization tool for geo-tagged sensor data.
 4. ![image](https://github.com/prasannaad/SenGeo/assets/70738433/28e0d1d4-3b5b-4b03-a4f4-941914d84ac8)
    <br>Add your API key by logging into your Google Maps account.
 
+5. ![image](https://github.com/prasannaad/SenGeo/assets/70738433/771aa0de-c1a4-4f1f-8745-4adab080bea7)
+   <br>By changing the variable here (pm2), any sensor data can be plotted in the map. 
