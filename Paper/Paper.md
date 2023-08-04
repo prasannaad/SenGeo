@@ -35,9 +35,8 @@ In recent years, the increasing concern over air quality and its impact on publi
 
 # Figures
 
-![SATLLA-0 FSW two main states: Initialization and Operation.\label{fig:figure1_1}](figure1_1.png)
+![Test.\label{fig:figure1_1}](figure1_1.png)
 
-The FSW consists of two primary states, as deduced from the system requirements of a state machine [@gonzalez2019architecture] (\autoref{fig:figure1_1}).
 
 # Acknowledgements
 
