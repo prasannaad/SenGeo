@@ -8,15 +8,13 @@ tags:
 authors:
   - name: Prasannaa Kumar D.
     orcid: 0000-0002-2308-7765
-    equal-contrib: true
+    corresponding: true 
     affiliation: 1
   - name: Gulshan Kumar
     orcid: 0009-0002-9302-2446
-    equal-contrib: true 
     affiliation: 2
   - name: Bavath D
     orcid: 0009-0001-7844-4985
-    corresponding: true 
     affiliation: 1
 affiliations:
  - name: Project Scientist, Indian Institute of Technology Delhi. 
