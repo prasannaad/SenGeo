@@ -21,7 +21,7 @@ affiliations:
  - name: Senior Research Scholar, Indian Institute of Technology Delhi
    index: 2
 date: 04 August 2023
-bibliography: paper.bib
+bibliography: Paper.bib
 ---
 
 # Summary
