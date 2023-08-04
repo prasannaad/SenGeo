@@ -35,16 +35,9 @@ In recent years, the increasing concern over air quality and its impact on publi
 
 # Figures
 
-![Caption for example figure.\label{fig:Example output of processed data}](https://github.com/prasannaad/SenGeo/assets/70738433/e720f360-2d4f-4a59-8d7e-898ad62cc55a)
-![image](https://github.com/prasannaad/SenGeo/assets/70738433/67f6bac2-70a8-4f2b-9c0f-2369feaf20f9)
+![Example visualization of processed data.\label{fig:figure1_1}](https://github.com/prasannaad/SenGeo/assets/70738433/e720f360-2d4f-4a59-8d7e-898ad62cc55a){ width=70% }
 
 
-Figures can be included like this:
-![Caption for example figure.\label{fig:example}](figure.png)
-and referenced from text using \autoref{fig:example}.
-
-Figure sizes can be customized by adding an optional second parameter:
-![Caption for example figure.](figure.png){ width=20% }
 
 # Acknowledgements
 
