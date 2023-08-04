@@ -1,27 +1,22 @@
 ---
 title: 'SenGeo: A data visualization tool for geo-tagged sensor data'
 tags:
-  - Sensors
-  - Geotag
-  - Data visualization
-
+  - sensors
+  - geotag
+  - data visualization
 authors:
-  - name: Prasannaa Kumar D.
-    orcid: 0000-0002-2308-7765
-    corresponding: true 
-    affiliation: 1
-  - name: Gulshan Kumar
-    orcid: 0009-0002-9302-2446
-    affiliation: 2
-  - name: Bavath D
-    orcid: 0009-0001-7844-4985
-    affiliation: "1"
+ - name: Prasannaa Kumar D.
+   orcid: 0000-0002-2308-7765
+   affiliation: 1
+ - name: Gulshan Kumar
+   affiliation: "2"
+ - name: Bavath D
+   affiliation: "1"
 affiliations:
- - name: Project Scientist, Indian Institute of Technology Delhi. 
+ - name: Project Scientist, Indian Institute of Technology Delhi
    index: 1
- - name: Senior Research Scholar, Indian Institute of Technology Delhi.
+ - name: Senior Research Scholar, Indian Institute of Technology Delhi
    index: 2
-
 date: 04 August 2023
 bibliography: paper.bib
 
