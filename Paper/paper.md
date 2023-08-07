@@ -45,5 +45,3 @@ In recent years, the increasing concern over air quality and its impact on publi
 
 We thank Saran Raj for helping us in carrying out the experiments related to this project. This work
 was generously supported by Quest Lab, IIT Delhi.
-
-# References
