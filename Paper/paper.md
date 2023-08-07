@@ -41,7 +41,6 @@ The script improves comprehension by combining data with Google Maps and display
 
 In recent years, the increasing concern over air quality and its impact on public health has led to the widespread deployment of mobile particulate matter (PM) sensors. These sensors provide valuable data on the concentration of particulate matter in different geographical locations. However, the effective utilization of this data requires a robust data visualization tool that can transform complex sensor readings into insightful visual representations. This statement of need outlines the necessity and significance of developing a specialized data visualization tool for geotagged particulate matter sensors. The data collected from mobile PM sensors holds immense potential for various stakeholders, including environmental researchers, public health officials, urban planners, and concerned citizens. The ability to visualize this data in a comprehensive and user-friendly manner is crucial for informed decision-making and effective policy formulation. While raw sensor data provides accurate measurements, its interpretation becomes a challenge without meaningful visualization. A dedicated data visualization tool tailored to the unique characteristics of geotagged PM sensor data would bridge this gap and empower users to make informed choices.
 
-
 # Acknowledgements
 
 We thank Saran Raj for helping us in carrying out the experiments related to this project. This work
